@@ -18,7 +18,7 @@ operations = []
 
 def check_multiplicity(amount):
     if amount % MULTIPLICITY != count:
-        print(f"Сумма должна быть кратной {MULTIPLICITY} у.е.")
+        print(f"Сумма должна быть быть кратной {MULTIPLICITY} у.е.")
         
 
 def deposit(amount):
