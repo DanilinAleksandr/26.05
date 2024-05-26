@@ -1,4 +1,5 @@
 import decimal
+import typing
 
 MULTIPLICITY = 50
 PERCENT_REMOVAL = decimal.Decimal(15) / decimal.Decimal(1000)
